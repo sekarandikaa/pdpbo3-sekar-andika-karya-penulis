@@ -1,0 +1,20 @@
+1903970
+Sekar Andika Putri
+
+Saya Sekar Andika mengerjakan evaluasi Tugas Praktikum 3 dalam mata kuliah
+Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
+
+Kesulitan :
+- Mencari warna yang sesuai untuk desain
+
+Hal baru yang dipelajari :
+- Semua pada pembuatan TP3 sepertinya hal yang baru dipelajari
+
+Fitur yang dikerjakan :
+- Area Input
+- Menyimpan Data
+- Melihat Seluruh Data
+- Menghapus Semua Data
+- Melihat Keterangan Aplikasi
+- Keluar Aplikasi
+- Desain Aplikasi
